@@ -14,7 +14,7 @@ For this guide, we assume:
 
 1. Make sure to set your e-mission/e-mission-phone branch to `places-survey` (https://github.com/sebastianbarry/e-mission-phone/tree/places-survey).
 
-2. Make sure to set your e-mission/e-mission-server branch to `add-trip-place-additions` (https://github.com/shankari/e-mission-server/tree/add_trip_place_additions).
+2. Make sure to set your e-mission/e-mission-server branch to `add_trip_place_additions` (https://github.com/shankari/e-mission-server/tree/add_trip_place_additions).
 
 3. For e-mission/nrel-openpath-deploy-configs, fork the nrel-openpath-deploy-configs branch `surveys-info-and-surveys-data` (https://github.com/sebastianbarry/nrel-openpath-deploy-configs/tree/surveys-info-and-surveys-data) so that you can create your own config files.
     - Place any Enketo survey JSON files you would like to use in your Study/Program, into your forked directory `nrel-openpath-deploy-configs/survey-resources/data-json`.
